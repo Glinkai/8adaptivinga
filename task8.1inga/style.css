@@ -112,7 +112,7 @@ li:first-child {
     font-size: 27px;
     color: #30233D;
     padding-top: 12px;
-    width: 870px;
+    max-width: 870px;
 }
 
 .flex-tech-wrapper {
@@ -183,7 +183,7 @@ footer p {
         padding-top: 44px;
     }
     .remember {
-        width: 830px;
+        max-width: 830px;
     }
     nav {
         display: none;
